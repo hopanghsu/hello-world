@@ -1,2 +1,14 @@
-hello-world is a repository that collects the canonical hello-world programs on
-various programming languages and environments in different branches :)
+Hello from Python :)
+
+# Environments
+
+## Local
+```
+$python3 hello.py
+> Hello from Python :)
+```
+
+## vscode with wsl
+
+- https://code.visualstudio.com/docs/python/python-tutorial
+- https://code.visualstudio.com/remote-tutorials/wsl/getting-started
